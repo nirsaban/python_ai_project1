@@ -1,0 +1,11 @@
+🎫 TITANIC TICKET
+-----------------------------
+Name: Rotem
+Age: 31.0
+Sex: female
+Class: 1
+Fare: $99.00
+Ticket Number: 292252
+-----------------------------
+Dear Rotem, your chances to die on our trip are 3.2%.
+Enjoy your trip ☺

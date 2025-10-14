@@ -1,0 +1,11 @@
+🎫 TITANIC TICKET
+-----------------------------
+Name: Ai Test
+Age: 29.0
+Sex: male
+Class: 1
+Fare: $78.00
+Ticket Number: 253022
+-----------------------------
+Dear Ai Test, your chances to die on our trip are 63.1%.
+Enjoy your trip ☺

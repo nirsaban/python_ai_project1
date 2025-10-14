@@ -1,0 +1,11 @@
+🎫 TITANIC TICKET
+-----------------------------
+Name: Nir
+Age: 80.0
+Sex: female
+Class: 1
+Fare: $85.00
+Ticket Number: 328248
+-----------------------------
+Dear Nir, your chances to die on our trip are 3.2%.
+Enjoy your trip ☺
