@@ -19,13 +19,15 @@ class DataManager:
                     fare = float(row["Fare"]) if row["Fare"] else 0.0
                     pclass = int(row["Pclass"]) if row["Pclass"] else None
                     survived = int(row["Survived"]) if row["Survived"] else None
+                    age = int(row["Age"]) if row["Age"] else None
                     sex = row["Sex"].strip().lower() if row["Sex"] else None
                     if pclass and sex:
                         data.append({
                             "fare": fare,
                             "pclass": pclass,
                             "sex": sex,
-                            "survived": survived
+                            "survived": survived,
+                            "age": age
                         })
                 except Exception:
                     continue
